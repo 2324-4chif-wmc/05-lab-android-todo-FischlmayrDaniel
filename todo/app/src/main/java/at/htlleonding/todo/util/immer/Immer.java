@@ -5,7 +5,7 @@ import java.util.function.Consumer;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
-import at.htl.todo.util.mapper.Mapper;
+import at.htlleonding.todo.util.mapper.Mapper;
 
 
 /** Immer simplifies handling immutable data structures.

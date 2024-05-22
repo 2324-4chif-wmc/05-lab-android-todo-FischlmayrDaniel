@@ -1,4 +1,4 @@
-package at.htl.todo.util;
+package at.htlleonding.todo.util;
 
 import org.eclipse.microprofile.config.Config;
 import org.eclipse.microprofile.config.spi.ConfigSource;

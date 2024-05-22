@@ -1,4 +1,4 @@
-package at.htl.todo.util.mapper;
+package at.htlleonding.todo.util.mapper;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
