@@ -15,11 +15,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 @Singleton
-class MainView {
-
-    @Inject
-    constructor() {
-    }
+class MainView @Inject constructor() {
 
     fun buildContent(activity: ComponentActivity) {
         activity.enableEdgeToEdge()

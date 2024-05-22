@@ -1,9 +1,9 @@
-package at.htl.todo.util.store;
+package at.htlleonding.todo.util.store;
 
 import java.util.concurrent.CompletionException;
 import java.util.function.Consumer;
 
-import at.htl.todo.util.immer.Immer;
+import at.htlleonding.todo.util.immer.Immer;
 import io.reactivex.rxjava3.subjects.BehaviorSubject;
 
 public class Store<T> {

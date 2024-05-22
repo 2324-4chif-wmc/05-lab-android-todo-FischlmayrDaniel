@@ -1,4 +1,4 @@
-package at.htl.todo.util.immer;
+package at.htlleonding.todo.util.immer;
 
 import java.util.function.Consumer;
 
